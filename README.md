@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Quem sou
 
-You can use the [editor on GitHub](https://github.com/rafmoura25/personal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Paulistano que atualmente mora em Jundiaí. Tenho 31 anos, e gosto das coisas simples, do ar puro do interior. Um churrasco com uma cervejinha é sempre bem vindo!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Cursos
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Formado em Análise e Desenvolvimento de Sistemas, com Pós-Graduação em Engenharia de Software.
 
 ```markdown
 Syntax highlighted code block
